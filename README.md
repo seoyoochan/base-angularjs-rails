@@ -22,5 +22,5 @@ Testing url when you run this app: http://localhost:3000/hello_angular/show
 - app/controllers/hello_angular_controller.rb
 
 
-Written by Yoochan Seo(Bitsnut)
+Written by Yoochan Seo(Bitsnut)<br/>
 Email address: contact@bitsnut.com
